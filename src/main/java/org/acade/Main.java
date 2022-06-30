@@ -14,6 +14,5 @@ public class Main {
 
     private static void clientes() {
         new Cliente(30);
-        new Cliente(30);
     }
 }
